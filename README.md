@@ -8,6 +8,12 @@
 </p>
 <br /><br /><br /><br />
 
+# Inference框架
+<p align="center">
+	<img src="https://github.com/a312863063/Model-Swap-Face_v2/blob/main/docs/architecture.png" alt="Sample">
+</p>
+<br /><br /><br /><br />
+
 # 使用方法
 ## 环境配置
 &emsp;&emsp;参照<a href='https://github.com/eladrich/pixel2style2pixel'>pSp</a>文档进行环境配置。<br /><br />
