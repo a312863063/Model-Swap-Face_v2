@@ -21,8 +21,9 @@
 &emsp;&emsp;·```projector_NorthAfrican.pt``` -- 北非模特投射器<br /><br />
 
 ## 运行代码
-&emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py，运行如下代码结果会保存在output文件夹下：<br />
-&emsp;&emsp;```python scripts/inference.py```<br /><br /><br /><br />
+&emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py，运行如下代码：<br />
+&emsp;&emsp;```python scripts/inference.py```<br />
+&emsp;&emsp;结果会保存在output文件夹下<br /><br /><br /><br />
 
 ## 了解更多
 &emsp;&emsp;我周末的时候喜欢思考一些新的应用场景和模式，欢迎访问<a href='http://www.seeprettyface.com'>我的网站</a>了解更多。
