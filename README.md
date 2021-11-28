@@ -10,7 +10,7 @@
 
 # Inference框架
 <p align="center">
-	<img src="https://github.com/a312863063/Model-Swap-Face_v2/blob/main/docs/architecture.png" alt="Sample">
+	<img src="https://github.com/a312863063/Model-Swap-Face_v2/blob/main/docs/infer_arch.png" alt="Sample">
 </p>
 <br /><br /><br /><br />
 
