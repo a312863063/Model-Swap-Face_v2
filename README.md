@@ -26,12 +26,12 @@
 &emsp;&emsp;```projector_WestEuropean.pt``` -- 西欧模特投射器<br />
 &emsp;&emsp;```projector_NorthAfrican.pt``` -- 北非模特投射器<br />
 &emsp;&emsp;```shape_predictor_68_face_landmarks.dat``` -- 人脸检测<br />
-&emsp;&emsp;```79999_iter.pth``` -- 人脸mask分割<br /><br /><br /><br />
+&emsp;&emsp;```79999_iter.pth``` -- 人脸mask分割<br /><br />
 
 ## 运行代码
 &emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py的路径，运行如下代码：<br />
 &emsp;&emsp;```python scripts/inference.py```<br />
-&emsp;&emsp;结果会保存在output文件夹下<br /><br /><br /><br />
+&emsp;&emsp;结果会保存在output文件夹下<br /><br />
 
 ## 贴回素材
 &emsp;&emsp;旧版<a href='https://github.com/a312863063/Model-Swap-Face'>代码</a>的贴回存在很多能被看出来的缺陷，这里推荐几个贴回方式：<br />
@@ -40,6 +40,6 @@
 &emsp;&emsp;&emsp;&emsp;(2) 不含位姿信息模特：https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels<br />
 &emsp;&emsp;2.贴回到视频：https://github.com/iperov/DeepFaceLive <br /><br /><br /><br />
 
-## 了解更多
+# 了解更多
 &emsp;&emsp;当然，模特只是很小的一种分类。我期待有一天我们所有人都能无差别的成为生产资料的制造者和使用者，在那种背景下，人们的社交关系会发生质的变化。欢迎您有空时来<a href='http://www.seeprettyface.com'>我的网站</a>逛逛一二，我平时很喜欢思考一些新的应用形式与模态。
  
