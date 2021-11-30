@@ -29,7 +29,7 @@
 &emsp;&emsp;```79999_iter.pth``` -- 人脸mask分割<br /><br /><br /><br />
 
 ## 运行代码
-&emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py，运行如下代码：<br />
+&emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py的路径，运行如下代码：<br />
 &emsp;&emsp;```python scripts/inference.py```<br />
 &emsp;&emsp;结果会保存在output文件夹下<br /><br /><br /><br />
 
