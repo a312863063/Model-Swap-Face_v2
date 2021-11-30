@@ -34,7 +34,7 @@
 &emsp;&emsp;结果会保存在output文件夹下<br /><br />
 
 ## 贴回素材
-&emsp;&emsp;按需选择（图片含位姿/图片/视频）：
+&emsp;&emsp;按需选择（图片含位姿/图片/视频）：<br />
 &emsp;&emsp;1. https://github.com/wuhuikai/FaceSwap<br />
 &emsp;&emsp;2. https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels<br />
 &emsp;&emsp;3. https://github.com/iperov/DeepFaceLive <br /><br /><br /><br />
