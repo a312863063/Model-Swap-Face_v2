@@ -24,9 +24,10 @@
 &emsp;&emsp;```encoder_without_pos.pt``` -- 去位姿编码器<br />
 &emsp;&emsp;```projector_EastAsian.pt``` -- 东亚模特投射器<br />
 &emsp;&emsp;```projector_WestEuropean.pt``` -- 西欧模特投射器<br />
-&emsp;&emsp;```projector_NorthAfrican.pt``` -- 北非模特投射器<br />
+&emsp;&emsp;```projector_NorthAfrican.pt``` -- 北非模特投射器（因故不再开源）<br />
 &emsp;&emsp;```shape_predictor_68_face_landmarks.dat``` -- 人脸检测<br />
-&emsp;&emsp;```79999_iter.pth``` -- 人脸mask分割<br /><br />
+&emsp;&emsp;```79999_iter.pth``` -- 人脸mask分割<br />
+
 
 ## 运行代码
 &emsp;&emsp;将图片放在input文件夹下，然后编辑scripts/inference.py的路径，运行如下代码：<br />
